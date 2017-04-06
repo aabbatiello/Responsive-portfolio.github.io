@@ -143,8 +143,28 @@ height: 30%;
 
 
 
+@media screen and (max-width: 980px){
+	.container{
+	width: 970px;
+	margin-left: .5%;
+	margin-right: .5%;
+}
+	aside{
+	width: 95%;
+	margin-right: 2%;
+}
+	section {
+	margin-left: 25px;
+	width: 94%;
+}
+	#header1{
+	margin-left: 110px;
 
 }
+	#header2{
+	padding-right: 97px;
+}
+
 
 @media screen and (max-width: 768px){
 	.container{
